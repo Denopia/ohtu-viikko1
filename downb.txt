@@ -1,10 +1,14 @@
-stitch face
-mr saturn
-bob-omb
-=)
-T.T
--.-
-o.o
-^-^
->.'
-._.
+turnips:
+ stitch face
+ =)
+ T.T
+ -.-
+ o.o
+ ^-^
+ >.'
+ ._.
+
+non-turnips:
+ mr saturn
+ bob-omb
+

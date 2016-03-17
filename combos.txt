@@ -1,1 +1,2 @@
-down throw + bair
+down throw ->  bair
+dair -> fair
